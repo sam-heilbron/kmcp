@@ -152,11 +152,5 @@ This project is licensed under the [Apache 2.0 License.](/LICENSE)
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the kagent team</p>
-  <p>
-    <a href="https://kagent.dev">Website</a> •
-    <a href="https://kagent.dev/docs/kmcp">Documentation</a> •
-    <a href="https://discord.gg/Fu3k65f2k3">Discord</a> •
-    <a href="https://github.com/kagent-dev/kmcp">GitHub</a>
-  </p>
+  <p>Built with ❤️ by the <a href="https://github.com/kagent-dev">kagent team</a> </p>
 </div>
